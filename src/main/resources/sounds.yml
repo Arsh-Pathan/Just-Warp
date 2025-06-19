@@ -1,0 +1,82 @@
+#
+# Just Warp - By _arsh.io
+# I hope you are enjoying using my plugin!
+# Check out my Discord server for support and other releases.
+# Discord: https://discord.gg/aBqZe3dgxW
+#
+
+# These are the sound effects used with-in Just Warp.
+# You can find all the sounds supported by Just Warp at https://helpch.at/docs/1.21/org/bukkit/Sound.html
+
+Sounds:
+  Teleported:
+    Use: true
+    Sound: ENTITY_ENDERMAN_TELEPORT
+    Volume: 100
+    Pitch: 1
+
+  Teleporting:
+    Use: true
+    Sound: ENTITY_CREEPER_PRIMED
+    Volume: 100
+    Pitch: 1
+
+  Teleportation_Canceled:
+    Use: true
+    Sound: ENTITY_GENERIC_EXPLODE
+    Volume: 100
+    Pitch: 1
+
+  Warp-Add:
+    Use: true
+    Sound: BLOCK_CHEST_OPEN
+    Volume: 100
+    Pitch: 1
+
+  Warp-Set:
+    Use: true
+    Sound: BLOCK_NOTE_BLOCK_PLING
+    Volume: 100
+    Pitch: 1
+
+  Warp-Delete:
+    Use: true
+    Sound: BLOCK_CHEST_CLOSE
+    Volume: 100
+    Pitch: 1
+
+  Warp-Already-Exists:
+    Use: true
+    Sound: ENTITY_ENDERMAN_TELEPORT
+    Volume: 100
+    Pitch: 1
+
+  Warp-Not-Exists:
+    Use: true
+    Sound: ENTITY_ENDERMAN_TELEPORT
+    Volume: 100
+    Pitch: 1
+
+  Invalid-Use-Of-Command:
+    Use: true
+    Sound: ENTITY_ENDERMAN_TELEPORT
+    Volume: 100
+    Pitch: 1
+
+  Invalid-Input:
+    Use: true
+    Sound: ENTITY_ENDERMAN_TELEPORT
+    Volume: 100
+    Pitch: 1
+
+  Unknown-Command:
+    Use: true
+    Sound: ENTITY_ENDERMAN_TELEPORT
+    Volume: 100
+    Pitch: 1
+
+  No-Permission:
+    Use: true
+    Sound: ENTITY_ENDERMAN_TELEPORT
+    Volume: 100
+    Pitch: 1

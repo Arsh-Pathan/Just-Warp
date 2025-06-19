@@ -1,0 +1,109 @@
+#
+# Just Warp - By _arsh.io
+# I hope you are enjoying using my plugin!
+# Check out my Discord server for support and other releases.
+# Discord: https://discord.gg/aBqZe3dgxW
+#
+
+# These are the title effects used with-in Just Warp.
+# Placeholder:
+#   {warp} returns the name of warp
+#   {delay} returns the delay
+
+Titles:
+
+  Teleported:
+    Use: true
+    Title: ""
+    SubTitle: "&7Teleported!"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Teleporting:
+    Use: true
+    Title: ""
+    SubTitle: "&7Teleporting to {warp} in {delay} seconds..."
+    FadIn: 0
+    Stay: 90
+    FadeOut: 0
+
+  Teleportation_Canceled:
+    Use: true
+    Title: ""
+    SubTitle: "&cCanceled!"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Warp-Add:
+    Use: true
+    Title: ""
+    SubTitle: "&b&lAdded!"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Warp-Set:
+    Use: true
+    Title: ""
+    SubTitle: "&b&lSet!"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Warp-Delete:
+    Use: true
+    Title: ""
+    SubTitle: "&c&lDELETED!"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Warp-Already-Exists:
+    Use: true
+    Title: ""
+    SubTitle: "&c&lALREADY EXISTS"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Warp-Not-Exists:
+    Use: true
+    Title: ""
+    SubTitle: "&c&lNOT EXISTS"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Invalid-Use-Of-Command:
+    Use: true
+    Title: ""
+    SubTitle: "&c&lINVALID USE"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Invalid-Input:
+    Use: true
+    Title: ""
+    SubTitle: "&c&lINVALID INPUT"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  Unknown-Command:
+    Use: true
+    Title: ""
+    SubTitle: "&c&lUNKNOWN COMMAND!"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0
+
+  No-Permission:
+    Use: true
+    Title: ""
+    SubTitle: "&c&lNO PERMISSION!"
+    FadIn: 0
+    Stay: 30
+    FadeOut: 0

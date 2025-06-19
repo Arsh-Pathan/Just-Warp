@@ -1,0 +1,30 @@
+#
+# Just Warp - By _arsh.io
+# I hope you are enjoying using my plugin!
+# Check out my Discord server for support and other releases.
+# Discord: https://discord.gg/aBqZe3dgxW
+#
+
+# There are the messages that Just Warp displays. Change it to your needs.
+# Placeholder:
+#   {warp} returns the name of warp
+#   {delay} returns the delay
+
+Prefix: "&b&lWARP"
+
+Messages:
+  Teleported: "&fTeleported!"
+  Teleporting: "&fTeleporting to &b{warp}&f in &a{delay} seconds&f..."
+  Teleportation_Canceled: "&fTeleportation &ccancelled&f because you moved!"
+  Warp-Add: "&fSuccessfully created &b{warp}&f at your current location."
+  Warp-Set: "&fSuccessfully set &b{warp}&f at your current location."
+  Warp-List: "&fHere are the available warps:"
+  Warp-List-Empty: "&fWarp list is empty. Add a warp using &a/jwarp add {name} {delay}&f."
+  Warp-Delete: "&fSuccessfully delete the &b{warp}&f."
+  Warp-Already-Exists: "&fWarp &b{warp}&f already exists!"
+  Warp-Not-Exists: "&fWarp &b{warp}&f not exists!"
+  Invalid-Use-Of-Command: "&fInvalid use of command."
+  Invalid-Input: "&fInvalid input."
+  Unknown-Command: "&fUnknown command. Use &a/jwarp help&f for help."
+  No-Permission: "&fYou don't have permission to do that."
+  No-Warp-Permission: "&fYou don't have permission to warp there."

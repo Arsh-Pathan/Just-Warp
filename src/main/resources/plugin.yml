@@ -1,0 +1,23 @@
+name: JustWarp
+version: '1.0'
+main: io.arsh.JustWarp
+api-version: '1.21'
+prefix: JustWarp
+authors: [ _arsh.io ]
+description: A simple warp plugin by _arsh.io
+commands:
+  warp:
+    aliases:
+      - warps
+      - w
+  justwarp:
+    aliases:
+      - jwarp
+      - jw
+permissions:
+  justwarp.warp.*:
+    default: op
+  justwarp.bypass.delay:
+    default: op
+  justwarp.admin:
+    default: op
