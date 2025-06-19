@@ -1,6 +1,7 @@
-![Banner](https://www.spigotmc.org/attachments/justwarp-info-png.902222/)
 
 Just Warp is a powerful, easy-to-use warp plugin designed to enhance your Minecraft server experience. Create and manage custom warp points that let players teleport to different locations effortlessly — perfect for convenient shortcuts or building immersive worlds.
+
+---
 
 ## 🚀 Features
 
@@ -14,8 +15,6 @@ Just Warp is a powerful, easy-to-use warp plugin designed to enhance your Minecr
 
 ---
 
-![Installation](https://www.spigotmc.org/attachments/justwarp-setup-png.902221/)
-
 ## 📥 Installation
 
 1. **Download** the latest version of Just Warp from [SpigotMC](#) or [GitHub Releases](#).
@@ -26,15 +25,11 @@ That's it! You're ready to warp!
 
 ---
 
-![Dependencies](https://www.spigotmc.org/attachments/justwarp-requirements-png.902220/)
-
 ## 🔧 Dependencies
 
 While Just Warp functions on its own, you’ll need a **permissions plugin** (like [LuckPerms](https://luckperms.net/)) to manage player access to warp commands.
 
 ---
-
-![Commands](https://www.spigotmc.org/attachments/justwarp-commands-png.902217/)
 
 ## 💬 Commands
 
@@ -49,8 +44,6 @@ While Just Warp functions on its own, you’ll need a **permissions plugin** (li
 | `/justwarp reload` | Reload plugin settings |
 
 ---
-
-![Permissions](https://www.spigotmc.org/attachments/justwarp-permissions-png.902219/)
 
 ## 🔐 Permissions
 
