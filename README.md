@@ -1,37 +1,78 @@
-[ATTACH=full]https://www.spigotmc.org/attachments/justwarp-info-png.902222/[/ATTACH]
+![Banner](https://www.spigotmc.org/attachments/justwarp-info-png.902222/)
 
-Just Warp is a powerful warp plugin designed to enhance your Minecraft server experience. With Just Warp, you can create and manage custom warps for players to teleport to different locations effortlessly. Whether you want to offer convenient shortcuts or build an immersive world, Just Warp has got you covered.
+Just Warp is a powerful, easy-to-use warp plugin designed to enhance your Minecraft server experience. Create and manage custom warp points that let players teleport to different locations effortlessly — perfect for convenient shortcuts or building immersive worlds.
 
-With Just Warp, you can create a dynamic and user-friendly environment on your Minecraft server, providing players with convenient teleportation options and enhancing their overall gameplay experience.
+## 🚀 Features
 
-[ATTACH=full](https://www.spigotmc.org/attachments/justwarp-setup-png.902221/)[/ATTACH]
+- Add custom named warps with optional delays
+- Modify and delete warps with ease
+- Full permission support for user control and ranks
+- Simple in-game command usage and help system
+- Reload plugin configurations without restarting the server
+- Lightweight and compatible with all modern Minecraft versions
+- Supports **bStats** for anonymous usage stats
 
-1. Download the latest version of the Just Warp.
-2. Install the plugin into your Minecraft server's plugins directory.
-3. Start or restart your Minecraft server to load the plugin.
+---
 
-That's it! You have successfully set up Just Warp on your Minecraft server. Enjoy the convenience and ease of teleporting to different locations on your server.
+![Installation](https://www.spigotmc.org/attachments/justwarp-setup-png.902221/)
 
-[ATTACH=full]902220[/ATTACH]
+## 📥 Installation
 
-Just Warp works fine on its own, but for your players to use warps, you'll need a permissions plugin like LuckPerms installed.
+1. **Download** the latest version of Just Warp from [SpigotMC](#) or [GitHub Releases](#).
+2. **Place** the plugin `.jar` file into your server's `plugins` directory.
+3. **Restart** or **start** your Minecraft server.
 
-[ATTACH=full]902217[/ATTACH]
-/warp <name> - This command serves as the main warp command, allowing players to teleport to a specific warp location.
-/justwarp help - Use this command to access a helpful guide that explains all available commands and their usage.
-/justwarp add <name> <delay> - Add new warps to your server by specifying a unique name and teleportation delay.
-/justwarp set <name> <delay> - Modify an existing warp by updating its location and teleportation delay to suit your needs.
-/justwarp list - Obtain a comprehensive list of all available warps, making it easy to navigate and manage them efficiently.
-/justwarp delete <name> - Remove unwanted warps from your server effortlessly, ensuring a clutter-free environment.
-/justwarp reload - Reload the Just Warp plugin, allowing for seamless updates and changes to take effect.
-[ATTACH=full]902219[/ATTACH]
-justwarp .warp.* - Grants players permission to use all warps available in the plugin.
-justwarp .warp.<name> - Allows players to access a specific named warp, providing fine-grained control over teleportation options.
-justwarp .bypass.delay - Allows players to bypass warp delays great for VIP ranks!
-justwarp .admin - Grants administrators permission to use all commands within Just Warp, ensuring efficient management and control.
-[ATTACH=full]902216[/ATTACH]
+That's it! You're ready to warp!
 
-If you enjoy this completely free and useful resource,
-please be kind enough to leave a like and review!
+---
 
-This plugin utilizes bStats to collect anonymous statistics
+![Dependencies](https://www.spigotmc.org/attachments/justwarp-requirements-png.902220/)
+
+## 🔧 Dependencies
+
+While Just Warp functions on its own, you’ll need a **permissions plugin** (like [LuckPerms](https://luckperms.net/)) to manage player access to warp commands.
+
+---
+
+![Commands](https://www.spigotmc.org/attachments/justwarp-commands-png.902217/)
+
+## 💬 Commands
+
+| Command | Description |
+|--------|-------------|
+| `/warp <name>` | Teleport to a specific warp |
+| `/justwarp help` | View plugin help and available commands |
+| `/justwarp add <name> <delay>` | Add a warp with a name and optional delay |
+| `/justwarp set <name> <delay>` | Update an existing warp's location and delay |
+| `/justwarp list` | View all warps |
+| `/justwarp delete <name>` | Delete a warp |
+| `/justwarp reload` | Reload plugin settings |
+
+---
+
+![Permissions](https://www.spigotmc.org/attachments/justwarp-permissions-png.902219/)
+
+## 🔐 Permissions
+
+| Node | Description |
+|------|-------------|
+| `justwarp.warp.*` | Access all warps |
+| `justwarp.warp.<name>` | Access a specific warp |
+| `justwarp.bypass.delay` | Bypass teleportation delays |
+| `justwarp.admin` | Access all admin commands |
+
+---
+
+## ❤️ Support & Feedback
+
+If you enjoy this free and useful plugin, please **leave a like and review** on [SpigotMC](https://www.spigotmc.org/resources/just-warp.126194/)!
+
+---
+
+## 📫 Contact
+
+For issues or suggestions, feel free to [open an issue](#) or join the discussion in the community!
+
+---
+
+**Made with ❤️ for Minecraft server owners.**
